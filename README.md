@@ -10,7 +10,7 @@ O software é voltado para a demonstração de operações básicas em um e-comm
 
 A aplicação utiliza um modelo conceitual baseado em um design de domínio com entidades relacionadas como Category, Product, User, Order, OrderItem e Payment. O relacionamento entre essas entidades é gerenciado pelo JPA (Java Persistence API), e a aplicação inclui também um controlador de exceções para tratamento de erros.
 
-Adcicionar imagem :)
+<img src="https://github.com/PedroRSilveira/test-springboot3-jpa/blob/main/DomainModel.png" alt="Domain Model">
 
 # Tecnologias Utilizadas
 
